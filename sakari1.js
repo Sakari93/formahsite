@@ -19,4 +19,3 @@ document.onmousedown=clickNS4;
 document.onmousedown=clickIE4;
 }
 document.oncontextmenu=new Function("alert(message);return false")
-</script>
