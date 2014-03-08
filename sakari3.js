@@ -1,4 +1,1 @@
-<script type="text/javascript">
 function changeNavigation(id) {document.getElementById('main').innerHTML=document.getElementById(id).innerHTML}
- </script>
- 
